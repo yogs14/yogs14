@@ -1,6 +1,4 @@
 ## Hi there 👋
-# 💫 About Me:
-🔭 I’m currently working on Generative AI<br>🌱 I’m currently learning Computer Science<br>💬 Ask me about Quantum Computing
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yogs14&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
