@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Yoga and I'm CS Student, from Informatics ITS</h2>
+<h2 align="left">Hi 👋! My name is Yoga and I'm a Student, from Informatics ITS</h2>
 
 ## 📊 GitHub Stats:
 <div align="center">
